@@ -1,0 +1,3209 @@
+{
+	"catalog": {
+		"product": [
+			{
+				"unit": "PR",
+				"display-name": "Roughneck",
+				"short-description": "Men's 6-Inch Boot in Briar Oil Slick Leather",
+				"long-description": "The Roughneck stands out as a rugged 6-inch moc with Vibram®'s original lug outsoles for aggressive, all-season traction. True to its name, the Roughneck stands up to heavy wear and lasts for years.",
+				"online-flag": [
+					{
+						"_site-id": "IrishSetter",
+						"__text": "true"
+					},
+					{
+						"_site-id": "Vasque",
+						"__text": "true"
+					},
+					{
+						"_site-id": "RedWing",
+						"__text": "true"
+					},
+					{
+						"_site-id": "AuthenticatedConsumer",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					},
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					}
+				],
+				"online-from": [
+					"2023-05-15T05:00:00Z",
+					{
+						"_site-id": "B2B"
+					}
+				],
+				"online-to": [
+					{
+						"_site-id": "B2B",
+						"__text": "2099-12-31T23:59:59Z"
+					},
+					{
+						"_site-id": "DTI",
+						"__text": "2099-12-31T23:59:59Z"
+					},
+					""
+				],
+				"searchable-flag": "true",
+				"images": {
+					"image-group": {
+						"image": [
+							{
+								"_path": "img/redwing/lwincgdw91/300x300px/RW08146C_MUL_N1_1115.jpeg?position=c&crop=no&color=ffffffff&quality=80&u=mztfl2"
+							},
+							{
+								"_path": "img/redwing/90ardbx56p/300x300px/RW08146C_MUL_N2_0315.jpeg?position=c&crop=no&color=ffffffff&quality=80&u=mztfl2"
+							},
+							{
+								"_path": "img/redwing/e1nywxvvk1/300x300px/RW08146C_MUL_N3_0315.jpeg?position=c&crop=no&color=ffffffff&quality=80&u=mztfl2"
+							},
+							{
+								"_path": "img/redwing/i5ancriqlh/300x300px/RW08146C_MUL_N4_0315.jpeg?position=c&crop=no&color=ffffffff&quality=80&u=mztfl2"
+							},
+							{
+								"_path": "img/redwing/bcrkmikh3u/300x300px/RW08146C_MUL_N6_0315.jpeg?position=c&crop=no&color=ffffffff&quality=80&u=mztfl2"
+							},
+							{
+								"_path": "img/redwing/mkuifjjyo7/300x300px/RW08146_MUL_N7_0822.jpeg?position=c&crop=no&color=ffffffff&quality=80&u=mztfl2"
+							},
+							{
+								"_path": "img/redwing/pbnphyr7qs/300x300px/RW08146_MUL_N8_0822.jpeg?position=c&crop=no&color=ffffffff&quality=80&u=mztfl2"
+							},
+							{
+								"_path": "img/redwing/aidnqti3zp/300x300px/RW08146_MUL_N9_0822.jpeg?position=c&crop=no&color=ffffffff&quality=80&u=mztfl2"
+							}
+						],
+						"_view-type": "default"
+					},
+					"_merge-mode": "replace"
+				},
+				"tax-class-id": "100500",
+				"brand": "Red Wing Heritage - Men's",
+				"manufacturer-name": "Red Wing Shoes",
+				"manufacturer-sku": "08146",
+				"page-attributes": {
+					"page-title": "Men's Roughneck 6-Inch Boot in Dark Brown Leather 8146",
+					"page-description": "The Roughneck men's boot in Briar Oil-Slick leather stands out as a rugged 6-inch moc with rubber lugs for aggressive, all-season traction. The Roughneck stands up to heavy wear and lasts for years. Shop Now at Heritage!"
+				},
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"MHLT",
+								"ASIA-R",
+								"ASIA-H",
+								"RW LS",
+								"EUROPE"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "Brand Code",
+							"__text": "RWLS"
+						},
+						{
+							"_attribute-id": "Care Instructions",
+							"__text": "Oil-Tanned Leather"
+						},
+						{
+							"_attribute-id": "Care Kit",
+							"__text": "2"
+						},
+						{
+							"value": [
+								"All Natural Leather Conditioner",
+								"Foam Cleaner",
+								"Leather Protector"
+							],
+							"_attribute-id": "Care Products"
+						},
+						{
+							"_attribute-id": "Color",
+							"__text": "Briar"
+						},
+						{
+							"_attribute-id": "Construction",
+							"__text": "Goodyear Leather Welt"
+						},
+						{
+							"_attribute-id": "Country of Origin - Generic",
+							"__text": "Made in USA"
+						},
+						{
+							"_attribute-id": "Country of Origin Long Description",
+							"__text": "Made in USA"
+						},
+						{
+							"_attribute-id": "Fit Recommendation",
+							"__text": "Many Customers size down 1/2 size."
+						},
+						{
+							"_attribute-id": "Gender",
+							"__text": "Mens"
+						},
+						{
+							"_attribute-id": "Hardware",
+							"__text": "Nickel Eyelets and Hooks"
+						},
+						{
+							"_attribute-id": "Height",
+							"__text": "6-inch"
+						},
+						{
+							"_attribute-id": "Height Dimension",
+							"__text": "6\""
+						},
+						{
+							"_attribute-id": "Insole",
+							"__text": "Leather"
+						},
+						{
+							"_attribute-id": "Last",
+							"__text": "23"
+						},
+						{
+							"_attribute-id": "Leather Color",
+							"__text": "Briar"
+						},
+						{
+							"_attribute-id": "Leather Name",
+							"__text": "Oil Slick"
+						},
+						{
+							"_attribute-id": "Leather Part Number",
+							"__text": "322002 HH"
+						},
+						{
+							"_attribute-id": "Leather Type",
+							"__text": "Full Grain, Waxed"
+						},
+						{
+							"_attribute-id": "Leather Vendor",
+							"__text": "SB Foot"
+						},
+						{
+							"_attribute-id": "Leather Weight",
+							"__text": "2.0-2.2mm"
+						},
+						{
+							"_attribute-id": "Lining",
+							"__text": "Unlined"
+						},
+						{
+							"_attribute-id": "Outsole Name",
+							"__text": "Vibram® Lug"
+						},
+						{
+							"value": [
+								"Full grain, water resistant Briar Pit Stop leather",
+								"PORON® cushion insole for comfort",
+								"Vibram® lug outsole"
+							],
+							"_attribute-id": "PPE Specifications"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Resoleable",
+							"__text": "Yes"
+						},
+						{
+							"_attribute-id": "Retail Class Description",
+							"__text": "Lifestyle"
+						},
+						{
+							"_attribute-id": "salesPriceUnitOfMeasure",
+							"__text": "{ \"CAD\":{ \"unitOfMeasure\":  \"PR\", \"unitOfMeasureDesc\":  \"Pair\", \"numberPerUnit\":  \"1\" }, \"EUR\":{ \"unitOfMeasure\":  \"PR\", \"unitOfMeasureDesc\":  \"Pair\", \"numberPerUnit\":  \"1\" }, \"USD\":{ \"unitOfMeasure\":  \"PR\", \"unitOfMeasureDesc\":  \"Pair\", \"numberPerUnit\":  \"1\" }}"
+						},
+						{
+							"_attribute-id": "Shank",
+							"__text": "Steel"
+						},
+						{
+							"_attribute-id": "Sourcing Warehouse",
+							"__text": "RW1"
+						},
+						{
+							"_attribute-id": "Style Name",
+							"__text": "Roughneck"
+						},
+						{
+							"_attribute-id": "Style Status Code",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "Style Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "styleNumber",
+							"__text": "08146"
+						},
+						{
+							"_attribute-id": "UNSPSC",
+							"__text": "53111600"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Weight- Pounds",
+							"__text": "3 lbs. 6 oz."
+						}
+					]
+				},
+				"options": "",
+				"variations": {
+					"attributes": {
+						"shared-variation-attribute": [
+							{
+								"_attribute-id": "Size",
+								"_variation-attribute-id": "Size"
+							},
+							{
+								"_attribute-id": "Width",
+								"_variation-attribute-id": "Width"
+							}
+						]
+					},
+					"variants": {
+						"variant": [
+							{
+								"_product-id": "08146D 040"
+							},
+							{
+								"_product-id": "08146D 045"
+							},
+							{
+								"_product-id": "08146D 050"
+							},
+							{
+								"_product-id": "08146D 055"
+							},
+							{
+								"_product-id": "08146D 060"
+							},
+							{
+								"_product-id": "08146D 065"
+							},
+							{
+								"_product-id": "08146D 070"
+							},
+							{
+								"_product-id": "08146D 075"
+							},
+							{
+								"_product-id": "08146D 080"
+							},
+							{
+								"_product-id": "08146D 085"
+							},
+							{
+								"_product-id": "08146D 090"
+							},
+							{
+								"_product-id": "08146D 095"
+							},
+							{
+								"_product-id": "08146D 100"
+							},
+							{
+								"_product-id": "08146D 105"
+							},
+							{
+								"_product-id": "08146D 110"
+							},
+							{
+								"_product-id": "08146D 115"
+							},
+							{
+								"_product-id": "08146D 120"
+							},
+							{
+								"_product-id": "08146D 130"
+							},
+							{
+								"_product-id": "08146D 140"
+							},
+							{
+								"_product-id": "08146E2060"
+							},
+							{
+								"_product-id": "08146E2065"
+							},
+							{
+								"_product-id": "08146E2070"
+							},
+							{
+								"_product-id": "08146E2075"
+							},
+							{
+								"_product-id": "08146E2080"
+							},
+							{
+								"_product-id": "08146E2085"
+							},
+							{
+								"_product-id": "08146E2090"
+							},
+							{
+								"_product-id": "08146E2095"
+							},
+							{
+								"_product-id": "08146E2100"
+							},
+							{
+								"_product-id": "08146E2105"
+							},
+							{
+								"_product-id": "08146E2110"
+							},
+							{
+								"_product-id": "08146E2115"
+							},
+							{
+								"_product-id": "08146E2120"
+							},
+							{
+								"_product-id": "08146E2130"
+							}
+						]
+					}
+				},
+				"classification-category": "0500",
+				"_product-id": "08146"
+			},
+			{
+				"upc": "000333781966",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 040"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "040"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "80"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-80",
+								"RW1-80"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 040"
+			},
+			{
+				"upc": "000333781973",
+				"online-flag": [
+					"false",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 045"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "045"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "80"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-80",
+								"RW1-80"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 045"
+			},
+			{
+				"upc": "000333781980",
+				"online-flag": [
+					"false",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 050"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "050"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "80"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-80",
+								"RW1-80"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 050"
+			},
+			{
+				"upc": "000333781997",
+				"online-flag": [
+					"false",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 055"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "055"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "80"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-80",
+								"RW1-80"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 055"
+			},
+			{
+				"upc": "000333782000",
+				"online-flag": [
+					"false",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 060"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "060"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "80"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-80",
+								"RW1-80"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 060"
+			},
+			{
+				"upc": "000333782017",
+				"online-flag": [
+					"false",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 065"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "065"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "80"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-80",
+								"RW1-80"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 065"
+			},
+			{
+				"upc": "000333782024",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 070"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "070"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 070"
+			},
+			{
+				"upc": "000333782031",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 075"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "075"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 075"
+			},
+			{
+				"upc": "000333782048",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 080"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "080"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 080"
+			},
+			{
+				"upc": "000333782055",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 085"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "085"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 085"
+			},
+			{
+				"upc": "000333782062",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 090"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "090"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 090"
+			},
+			{
+				"upc": "000333782079",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 095"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "095"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 095"
+			},
+			{
+				"upc": "000333782086",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 100"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "100"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 100"
+			},
+			{
+				"upc": "000333782093",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 105"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "105"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 105"
+			},
+			{
+				"upc": "000333782109",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 110"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "110"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 110"
+			},
+			{
+				"upc": "000333782116",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 115"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "115"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 115"
+			},
+			{
+				"upc": "000333782123",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 120"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "120"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 120"
+			},
+			{
+				"upc": "000333782130",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 130"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "130"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-20",
+								"NL1-20",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 130"
+			},
+			{
+				"upc": "888084578475",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146D 140"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "140"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "warehouseStatus",
+							"__text": "RW1-20"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "D"
+						}
+					]
+				},
+				"_product-id": "08146D 140"
+			},
+			{
+				"upc": "000333782147",
+				"online-flag": [
+					"false",
+					{
+						"_site-id": "DTI",
+						"__text": "false"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "false"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"_attribute-id": "Assortment Code",
+							"__text": "IONL"
+						},
+						{
+							"_attribute-id": "Assortment Description",
+							"__text": "INTERNATIONAL ONLY"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "80"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "80"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2060"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "060"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "80"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-80"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2060"
+			},
+			{
+				"upc": "000333782154",
+				"online-flag": [
+					"false",
+					{
+						"_site-id": "DTI",
+						"__text": "false"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "false"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"_attribute-id": "Assortment Code",
+							"__text": "IONL"
+						},
+						{
+							"_attribute-id": "Assortment Description",
+							"__text": "INTERNATIONAL ONLY"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "80"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "80"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2065"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "065"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "80"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-80"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2065"
+			},
+			{
+				"upc": "000333782161",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2070"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "070"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2070"
+			},
+			{
+				"upc": "000333782178",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2075"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "075"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2075"
+			},
+			{
+				"upc": "000333782185",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2080"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "080"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2080"
+			},
+			{
+				"upc": "000333782192",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2085"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "085"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2085"
+			},
+			{
+				"upc": "000333782208",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2090"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "090"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2090"
+			},
+			{
+				"upc": "000333782215",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2095"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "095"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2095"
+			},
+			{
+				"upc": "000333782222",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2100"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "100"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2100"
+			},
+			{
+				"upc": "000333782239",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2105"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "105"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2105"
+			},
+			{
+				"upc": "000333782246",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2110"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "110"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2110"
+			},
+			{
+				"upc": "000333782253",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2115"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "115"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2115"
+			},
+			{
+				"upc": "000333782260",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2120"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "120"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2120"
+			},
+			{
+				"upc": "000333782277",
+				"online-flag": [
+					"true",
+					{
+						"_site-id": "DTI",
+						"__text": "true"
+					},
+					{
+						"_site-id": "B2B",
+						"__text": "true"
+					}
+				],
+				"online-from": {
+					"_site-id": "B2B"
+				},
+				"online-to": {
+					"_site-id": "B2B",
+					"__text": "2099-12-31T23:59:59Z"
+				},
+				"searchable-flag": "false",
+				"tax-class-id": "100500",
+				"custom-attributes": {
+					"custom-attribute": [
+						{
+							"value": [
+								"ASIA-G",
+								"ASIA-H",
+								"ASIA-R",
+								"EUROPE",
+								"MHLT",
+								"RW LS"
+							],
+							"_attribute-id": "Assortment Code"
+						},
+						{
+							"value": [
+								"ASIA - HERITAGE",
+								"ASIA RWSS",
+								"ASIA-GREATER CHINA",
+								"EUROPE LIFESTYLE AND VASQUE",
+								"MENS HERITAGE LOWER TIER",
+								"RW HERITAGE MENS"
+							],
+							"_attribute-id": "Assortment Description"
+						},
+						{
+							"_attribute-id": "B2BGLOBAL Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "DTI Warehouse Group Status",
+							"__text": "20"
+						},
+						{
+							"_attribute-id": "rawMaterialType",
+							"__text": "-"
+						},
+						{
+							"_attribute-id": "Retail Sku",
+							"__text": "08146E2130"
+						},
+						{
+							"_attribute-id": "Size",
+							"__text": "130"
+						},
+						{
+							"_attribute-id": "Warehouse Group Status Code",
+							"__text": "20"
+						},
+						{
+							"value": [
+								"IFG-80",
+								"NL1-80",
+								"RW1-20"
+							],
+							"_attribute-id": "warehouseStatus"
+						},
+						{
+							"_attribute-id": "Width",
+							"__text": "E2"
+						}
+					]
+				},
+				"_product-id": "08146E2130"
+			}
+		],
+		"_catalog-id": "rws-master"
+	}
+}
